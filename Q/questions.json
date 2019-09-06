@@ -1,0 +1,413 @@
+{
+  "1": {
+    "id": "1",
+    "text": "Koliko kromosoma sadrži ljudska stanica?",
+    "choices": [
+      [
+        "a",
+        "150"
+      ],
+      [
+        "b",
+        "72"
+      ],
+      [
+        "c",
+        "46"
+      ]
+    ],
+    "answer": "c"
+  },
+  "2": {
+    "id": "1",
+    "text": "Koje je ime boga rata u grčkoj mitologiji?",
+    "choices": [
+      [
+        "a",
+        "Ares"
+      ],
+      [
+        "b",
+        "Fobos"
+      ],
+      [
+        "c",
+        "Erida"
+      ]
+    ],
+    "answer": "a"
+  },
+  "3": {
+    "id": "1",
+    "text": "Koje godine je eruptirao Vezuv ?",
+    "choices": [
+      [
+        "a",
+        "606."
+      ],
+      [
+        "b",
+        "79."
+      ],
+      [
+        "c",
+        "443."
+      ]
+    ],
+    "answer": "b"
+  },
+  "4": {
+    "id": "1",
+    "text": "Koja je najmnogoljudnija država u Africi? ",
+    "choices": [
+      [
+        "a",
+        "Nigerija"
+      ],
+      [
+        "b",
+        "Libija"
+      ],
+      [
+        "c",
+        "Egipat"
+      ]
+    ],
+    "answer": "a"
+  },
+  "5": {
+    "id": "1",
+    "text": "Glavni grad Indije? ",
+    "choices": [
+      [
+        "a",
+        "New Delhi"
+      ],
+      [
+        "b",
+        "Mumbai"
+      ],
+      [
+        "c",
+        "Osaka"
+      ]
+    ],
+    "answer": "a"
+  },
+  "6": {
+    "id": "1",
+    "text": "Najduža rijeka u Europi? ",
+    "choices": [
+      [
+        "a",
+        "Dunav"
+      ],
+      [
+        "b",
+        "Rajna"
+      ],
+      [
+        "c",
+        "Volga"
+      ]
+    ],
+    "answer": "c"
+  },
+  "7": {
+    "id": "1",
+    "text": "Tko je trenutni predsjednik Rusije ? ",
+    "choices": [
+      [
+        "a",
+        "Dmitry Anatolyevich Medvedev "
+      ],
+      [
+        "b",
+        "Vladimir Vladimirovich Putin "
+      ],
+      [
+        "c",
+        "Boris Nikolayevich Yeltsin "
+      ]
+    ],
+    "answer": "b"
+
+  },
+  "8": {
+    "id": "1",
+    "text": "Tko je kapetan nogometnog kluba Barcelona? ",
+    "choices": [
+      [
+        "a",
+        "Lionel Andrés Messi"
+      ],
+      [
+        "b",
+        "Arturo Erasmo Vidal Pardo"
+      ],
+      [
+        "c",
+        "Marc-André ter Stegen"
+      ]
+    ],
+    "answer": "a"
+  },
+  "9": {
+    "id": "1",
+    "text": "Koji tenisač ima najviše osvojenih Grand Slam turnira ? ",
+    "choices": [
+      [
+        "a",
+        "Rafael Nadal "
+      ],
+      [
+        "b",
+        "Rodger Federer "
+      ],
+      [
+        "c",
+        "Pete Sampras"
+      ]
+    ],
+    "answer": "b"
+
+  },
+  "10": {
+    "id": "1",
+    "text": "Tko je osnivač tvrtke Amazon ? ",
+    "choices": [
+      [
+        "a",
+        "Jeff Bezos "
+      ],
+      [
+        "b",
+        "Bill Gates"
+      ],
+      [
+        "c",
+        "Elon Musk"
+      ]
+    ],
+    "answer": "a"
+
+  },
+  "11": {
+    "id": "1",
+    "text": "Koji kemijski element ima najveću gustoću? ",
+    "choices": [
+      [
+        "a",
+        "Olovo"
+      ],
+      [
+        "b",
+        "Volfram"
+      ],
+      [
+        "c",
+        "Osmij"
+      ]
+    ],
+    "answer": "c"
+
+  },
+  "12": {
+    "id": "1",
+    "text": "Tko je izumitelj telefona? ",
+    "choices": [
+      [
+        "a",
+        "Guglielmo Marconi"
+      ],
+      [
+        "b",
+        "Alexander Graham Bell "
+      ],
+      [
+        "c",
+        "Nikola Tesla"
+      ]
+    ],
+    "answer": "b"
+
+  },
+   "13": {
+    "id": "1",
+    "text": "Godina nastanka prvi apple iPhone? ",
+    "choices": [
+      [
+        "a",
+        "2008."
+      ],
+      [
+        "b",
+        "2007"
+      ],
+      [
+        "c",
+        "2005"
+      ]
+    ],
+    "answer": "b"
+
+  },
+   "14": {
+    "id": "1",
+    "text": "Kako se zvao prvi hrvatski kralj? ",
+    "choices": [
+      [
+        "a",
+        "Tvrtko"
+      ],
+      [
+        "b",
+        "Borna"
+      ],
+      [
+        "c",
+        "Tomislav"
+      ]
+    ],
+    "answer": "c"
+
+  },
+   "15": {
+    "id": "1",
+    "text": "Tko je prvi čovjek u svemiru? ",
+    "choices": [
+      [
+        "a",
+        "Jurij Aleksejevič Gagarin"
+      ],
+      [
+        "b",
+        "Neil Alden Armstrong"
+      ],
+      [
+        "c",
+        "Elon Musk"
+      ]
+    ],
+    "answer": "a"
+   },
+   "16": {
+    "id": "1",
+    "text": "Najveće jezero na Svijetu? ",
+    "choices": [
+      [
+        "a",
+        "Kaspijsko"
+      ],
+      [
+        "b",
+        "Bajkalsko"
+      ],
+      [
+        "c",
+        "Superior"
+      ]
+    ],
+    "answer": "a"
+
+  },
+  "17": {
+    "id": "1",
+    "text": "Tko je prvi predsjednik SAD-a? ",
+    "choices": [
+      [
+        "a",
+        "Franklin Delano Roosevelt"
+      ],
+      [
+        "b",
+        "George Washington"
+      ],
+      [
+        "c",
+        "Abraham Lincoln"
+      ]
+    ],
+    "answer": "b"
+
+  },
+  "18": {
+    "id": "1",
+    "text": "Tko je prvi papa? ",
+    "choices": [
+      [
+        "a",
+        "sv. Petar"
+      ],
+      [
+        "b",
+        "sv. Klement I"
+      ],
+      [
+        "c",
+        "Urban I"
+      ]
+    ],
+    "answer": "a"
+  },
+  "19": {
+    "id": "1",
+    "text": " Posljednji vladar Zapadnog Rimskog Carstva ? ",
+    "choices": [
+      [
+        "a",
+        "Gaius Aurelius Valerius Diocletianus Augustus"
+      ],
+      [
+        "b",
+        "Libius Severus"
+      ],
+      [
+        "c",
+        "Flavius Romulus Augustus "
+      ]
+    ],
+    "answer": "c"
+
+  },
+  "20": {
+    "id": "1",
+    "text": " Broj saveznih država u SAD ? ",
+    "choices": [
+      [
+        "a",
+        "47"
+      ],
+      [
+        "b",
+        "51"
+      ],
+      [
+        "c",
+        "50"
+      ]
+    ],
+    "answer": "c"
+
+  },
+  "21": {
+    "id": "1",
+    "text": "Kad je održano prvo Svjetsko nogometno prvenstvo? ",
+    "choices": [
+      [
+        "a",
+        "1930."
+      ],
+      [
+        "b",
+        "1934."
+      ],
+      [
+        "c",
+        "1926."
+      ]
+    ],
+    "answer": "a"
+
+  }
+}
